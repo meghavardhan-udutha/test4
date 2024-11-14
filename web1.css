@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.main{
+    background-color: black;
+    width: 100%;
+    height: 100vh;
+}
+.li{
+    display: flex;
+    float: right;
+    margin: 2px;
+    padding: 2px;
+    margin-right: 35%;
+}
+.li-1{
+    margin: 2px;
+    padding: 2px;
+    list-style-type: none;
+    padding-right: 20%;
+}
+.navLink{
+    text-decoration: none;
+    color: white;
+}
+.para{
+    color: white;
+}
